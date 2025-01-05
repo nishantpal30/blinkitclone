@@ -1,0 +1,36 @@
+.img{
+  margin: auto;
+  max-width: 1263px;
+}
+.img img{
+  width: 100%;
+}
+.phoneheader{
+  display: none;
+}
+.img2{
+  display: flex;
+
+  margin: auto;
+  max-width: 1263px;
+}
+.img3 img{
+  width: 100%;
+}
+.img3{
+margin: 10px;
+  flex-basis: 28%;
+}
+.iteamsection{
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  max-width: 1263px;
+}
+.itemlist{
+  flex-basis: 10%;
+  
+}
+.itemlist img{
+  width: 100%;
+}
