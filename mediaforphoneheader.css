@@ -30,7 +30,8 @@
     background-color: white;
     border-radius: 20px;
   }
-  .login , .mycart{
+  .login,
+  .mycart {
     padding: 2px 10px 10px 10px;
   }
   .img {
@@ -52,4 +53,9 @@
   .itemlist {
     flex-basis: 25% !important;
   }
+.dairy_product{
+  flex-basis: 45%;
+  gap: 3px;
+  margin-left: 10px;
+}
 }
